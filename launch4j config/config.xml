@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\All JAVA Project\ABC_Institute1\dist\ABC_Institute1.jar</jar>
+  <outfile>D:\All JAVA Project\ABC_Institute1\setup\ABC_Institute.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Thinuka\Downloads\3837963_shop_business_store_market_icon.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0_111</minVersion>
+    <maxVersion>12.0.0</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.3</fileVersion>
+    <txtFileVersion>1.0.0.3</txtFileVersion>
+    <fileDescription>ABC_Institute</fileDescription>
+    <copyright>Copyright - (c) - ABC_Institute</copyright>
+    <productVersion>1.0.0.3</productVersion>
+    <txtProductVersion>1.0.0.3</txtProductVersion>
+    <productName>ABC_Institute</productName>
+    <companyName></companyName>
+    <internalName>ABC_Institute</internalName>
+    <originalFilename>ABC_Institute.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
